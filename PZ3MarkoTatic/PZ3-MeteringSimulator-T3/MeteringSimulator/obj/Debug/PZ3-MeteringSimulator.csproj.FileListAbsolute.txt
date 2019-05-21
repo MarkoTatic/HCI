@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\PZ3MarkoTatic\PZ3-MeteringSimulator-T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\ASUS\Desktop\PZ3MarkoTatic\PZ3-MeteringSimulator-T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\ASUS\Desktop\PZ3MarkoTatic\PZ3-MeteringSimulator-T3\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\ASUS\Desktop\PZ3MarkoTatic\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PZ3MarkoTatic\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\PZ3MarkoTatic\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\PZ3MarkoTatic\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\ASUS\Desktop\PZ3MarkoTatic\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\ASUS\Desktop\PZ3MarkoTatic\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\PZ3MarkoTatic\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\ASUS\Desktop\PZ3MarkoTatic\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PZ3MarkoTatic\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\PZ3MarkoTatic\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\PZ3-MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\PZ3MarkoTatic\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\ASUS\Desktop\PZ3MarkoTatic\PZ3-MeteringSimulator-T3\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
