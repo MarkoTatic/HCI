@@ -1,0 +1,116 @@
+﻿<Window x:Class="Primer_1._2.DrawingKontrola"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Primer_1._2"
+        xmlns:PresentationOptions="http://schemas.microsoft.com/winfx/2006/xaml/presentation/options"
+        mc:Ignorable="d" Title="DrawingKontrola" Height="400" Width="400">
+    <Canvas Height="350" Width="370">
+        <Image Stretch="None" HorizontalAlignment="Left" Canvas.Left="47">
+            <Image.Source>
+                <DrawingImage PresentationOptions:Freeze="True"> <!-- slika natala crtezom.-->
+                    <DrawingImage.Drawing>
+
+                        <GeometryDrawing>
+                            <GeometryDrawing.Geometry>
+
+                                <!-- Create a composite shape. -->
+                                <GeometryGroup>
+                                    <EllipseGeometry Center="50,50" RadiusX="45" RadiusY="20" />
+                                    <EllipseGeometry Center="50,50" RadiusX="20" RadiusY="45" />
+                                </GeometryGroup>
+                            </GeometryDrawing.Geometry>
+                            <GeometryDrawing.Brush>
+
+                                <!-- Paint the drawing with a gradient. -->
+                                <!-- na preseku dva crteza je po defaultu belo, moze da se predefinise da i presek oboji-->
+                                <LinearGradientBrush>
+                                    <GradientStop Offset="0.0" Color="Red" /><!-- boja se krece od gornje leve ivice do drugog kraja dijagonale [1.0] ===> hvata sve vrednosti po toj dijagonali-->
+                                    <GradientStop Offset="1.0" Color="#CCCCFF" />
+                                </LinearGradientBrush>
+                            </GeometryDrawing.Brush>
+                            <GeometryDrawing.Pen>
+
+                                <!-- Outline the drawing with a solid color. -->
+                                <Pen Thickness="10" Brush="Black" />
+                            </GeometryDrawing.Pen>
+                        </GeometryDrawing>
+                    </DrawingImage.Drawing>
+                </DrawingImage>
+            </Image.Source>
+        </Image>
+
+        <Image Canvas.Left="223">
+            <Image.Source>
+                <DrawingImage>
+                    <DrawingImage.Drawing>
+                        <ImageDrawing Rect="0,0,100,100" ImageSource="pink_icing_sprinkles.png"/>
+                    </DrawingImage.Drawing>
+                </DrawingImage>
+            </Image.Source>
+        </Image>
+            <!-- tekst kao slika-->
+        <Image Canvas.Left="16" Canvas.Top="252" Height="76" Width="131">
+            <Image.Source>
+                <DrawingImage>
+                    <DrawingImage.Drawing>
+                        <!-- crtez pomocu slova je Glyph... -->
+                        <GlyphRunDrawing ForegroundBrush="Orange">
+                            <GlyphRunDrawing.GlyphRun>
+                                <!-- GlyphIndices su vrednosti za slov, FondRenderingEmSize (veliko slovo M je najvece slovo) i to je ustvari ova vrednost odnosno najveca moguca vr slova -->
+                                
+                                <GlyphRun 
+                                      CaretStops="{x:Null}" 
+                                      ClusterMap="{x:Null}" 
+                                      IsSideways="False" 
+                                      GlyphOffsets="{x:Null}" 
+                                      GlyphIndices="48 36 53 46 50" 
+                                      BaselineOrigin="0,12.29"  
+                                      FontRenderingEmSize="13.333333333333334" 
+                                      DeviceFontName="{x:Null}" 
+                                      AdvanceWidths="10.62666666666667 7.41333333333333 8 8 7" 
+                                      BidiLevel="0">
+                                    <!-- C fonts pa properties -->
+                                    <GlyphRun.GlyphTypeface>
+                                        <GlyphTypeface FontUri="C:\WINDOWS\Fonts\BAUHS93.TTF" />
+                                    </GlyphRun.GlyphTypeface>
+                                </GlyphRun>
+                            </GlyphRunDrawing.GlyphRun>
+                        </GlyphRunDrawing>
+                    </DrawingImage.Drawing>
+                </DrawingImage>
+            </Image.Source>
+        </Image>
+        <!-- grupa crteza odnosno svi su zavisni jedan od drugog -->
+        <Image Canvas.Left="138" Canvas.Top="124">
+            <Image.Source>
+                <DrawingImage>
+                    <DrawingImage.Drawing>
+                        <DrawingGroup>
+                            <ImageDrawing ImageSource="pink_icing_sprinkles.png" Rect="50,50,100,100"/>
+                            <!-- posto se crtaju jedan preko drugog da ostane providno -->
+                            <GeometryDrawing Brush="#66F33214">
+                                <GeometryDrawing.Geometry>
+                                    <EllipseGeometry Center="70,70" RadiusX="50"  RadiusY="50"/>
+                                </GeometryDrawing.Geometry>
+                                <GeometryDrawing.Pen>
+                                    <Pen Brush="Black" Thickness="4" />
+                                </GeometryDrawing.Pen>
+                            </GeometryDrawing>
+                            <GeometryDrawing Brush="#6614E9F3">
+                                <GeometryDrawing.Geometry>
+                                    <EllipseGeometry Center="120,120" RadiusX="50"  RadiusY="50"/>
+                                </GeometryDrawing.Geometry>
+                                <GeometryDrawing.Pen>
+                                    <Pen Brush="Black" Thickness="4" />
+                                </GeometryDrawing.Pen>
+                            </GeometryDrawing>
+                        </DrawingGroup>
+                    </DrawingImage.Drawing>
+                </DrawingImage>
+            </Image.Source>
+        </Image>
+
+    </Canvas>
+</Window>

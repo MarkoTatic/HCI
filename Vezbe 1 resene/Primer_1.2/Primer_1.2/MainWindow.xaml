@@ -1,0 +1,45 @@
+﻿<Window x:Class="Primer_1._2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Primer_1._2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.CommandBindings>
+        <CommandBinding Command="local:RoutedCommands.HelloWorld" CanExecute="HelloWorld_CanExecute" Executed="HelloWorld_Executed"></CommandBinding>
+        <CommandBinding Command="local:RoutedCommands.Enable" CanExecute="Enable_CanExecute" Executed="Enable_Executed"></CommandBinding>
+        <CommandBinding Command="local:RoutedCommands.Komanda" CanExecute="Komanda_CanExecute" Executed="Komanda_Executed"></CommandBinding>
+        <CommandBinding Command="local:RoutedCommands.Ugradjene" CanExecute="Ugradjene_CanExecute" Executed="Ugradjene_Executed"></CommandBinding>
+    </Window.CommandBindings>
+    <DockPanel>
+        <TextBlock DockPanel.Dock="Top" Text="RAČUNARSKA GRAFIKA - 1. NEDELJA"/>
+        <Menu DockPanel.Dock ="Top">
+            <MenuItem Header="_Vizuelne kontrole">
+                <MenuItem Header="_Drawing" Click="MenuItem_Click_1"></MenuItem>
+                <MenuItem Header="_Shapes" Click="MenuItem_Click_2"></MenuItem>
+                <MenuItem Header="_Visual" Click="MenuItem_Click_3"></MenuItem>
+                <MenuItem Header="_Visual advanced" Click="MenuItem_Click_4"></MenuItem>
+            </MenuItem>
+            <!-- komande header -->
+            <MenuItem Header="Komande">
+                <!-- Command je atribut za precicu koja je bindovana gore -->
+                <MenuItem Header="_Hello World" Command="local:RoutedCommands.HelloWorld"></MenuItem>
+                <MenuItem Header="_Enable" IsCheckable="True" Command="local:RoutedCommands.Enable" IsChecked="{Binding Path=MenuEnabled}"></MenuItem>
+                <MenuItem Header="_Komanda" Command="local:RoutedCommands.Komanda"></MenuItem>
+                <Separator></Separator>
+                <MenuItem Header="_Ugradjene komande" Command="local:RoutedCommands.Ugradjene"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="_Zadaci">
+                <MenuItem Header="_Zad1: Oblik prozora" Click="MenuItem_Click"></MenuItem>
+                <MenuItem Header="_Zad2: Oblik kontrole"></MenuItem>
+            </MenuItem>
+        </Menu>
+        <Grid DockPanel.Dock="Bottom" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="194*"/>
+                <ColumnDefinition Width="323*"/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+    </DockPanel>
+</Window>

@@ -1,0 +1,120 @@
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\bin\Debug\Primer_1.2.exe.config
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\bin\Debug\Primer_1.2.exe
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\bin\Debug\Primer_1.2.pdb
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\obj\Debug\DrawingKontrola.g.cs
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\obj\Debug\MainWindow.g.cs
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\obj\Debug\ShapeKontrola.g.cs
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\obj\Debug\UgradjeneKomande.g.cs
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\obj\Debug\VisualAdvanced.g.cs
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\obj\Debug\VisualKontrola.g.cs
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\obj\Debug\App.g.cs
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2_MarkupCompile.cache
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2_MarkupCompile.lref
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\obj\Debug\DrawingKontrola.baml
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\obj\Debug\MainWindow.baml
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\obj\Debug\ShapeKontrola.baml
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\obj\Debug\UgradjeneKomande.baml
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\obj\Debug\VisualAdvanced.baml
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\obj\Debug\VisualKontrola.baml
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.g.resources
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\obj\Debug\Primer_1._2.Properties.Resources.resources
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.csproj.GenerateResource.Cache
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.exe
+D:\Assist\Grafika\RG-ESI 2016-2017\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.pdb
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\bin\Debug\Primer_1.2.exe.config
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\bin\Debug\Primer_1.2.exe
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\bin\Debug\Primer_1.2.pdb
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.csprojResolveAssemblyReference.cache
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\DrawingKontrola.g.cs
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\MainWindow.g.cs
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\ShapeKontrola.g.cs
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\UgradjeneKomande.g.cs
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\VisualAdvanced.g.cs
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\VisualKontrola.g.cs
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\App.g.cs
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2_MarkupCompile.cache
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2_MarkupCompile.lref
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\DrawingKontrola.baml
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\MainWindow.baml
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\ShapeKontrola.baml
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\UgradjeneKomande.baml
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\VisualAdvanced.baml
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\VisualKontrola.baml
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.g.resources
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1._2.Properties.Resources.resources
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.csproj.GenerateResource.Cache
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.exe
+E:\D\!FTN\!RG VEZBE\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.pdb
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\bin\Debug\Primer_1.2.exe.config
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\bin\Debug\Primer_1.2.exe
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\bin\Debug\Primer_1.2.pdb
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.csprojAssemblyReference.cache
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\DrawingKontrola.g.cs
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\MainWindow.g.cs
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\ShapeKontrola.g.cs
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\UgradjeneKomande.g.cs
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\VisualAdvanced.g.cs
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\VisualKontrola.g.cs
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\App.g.cs
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2_MarkupCompile.cache
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2_MarkupCompile.lref
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\DrawingKontrola.baml
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\MainWindow.baml
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\ShapeKontrola.baml
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\UgradjeneKomande.baml
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\VisualAdvanced.baml
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\VisualKontrola.baml
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.g.resources
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1._2.Properties.Resources.resources
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.csproj.GenerateResource.cache
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.exe
+D:\!FTN\!RG VEZBE\2019-2020\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.pdb
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\bin\Debug\Primer_1.2.exe.config
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.exe
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.pdb
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\bin\Debug\Primer_1.2.exe
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\bin\Debug\Primer_1.2.pdb
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\DrawingKontrola.g.cs
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\MainWindow.g.cs
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\ShapeKontrola.g.cs
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\UgradjeneKomande.g.cs
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\VisualAdvanced.g.cs
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\VisualKontrola.g.cs
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\App.g.cs
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2_MarkupCompile.cache
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2_MarkupCompile.lref
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\DrawingKontrola.baml
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\MainWindow.baml
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\ShapeKontrola.baml
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\UgradjeneKomande.baml
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\VisualAdvanced.baml
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\VisualKontrola.baml
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.g.resources
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1._2.Properties.Resources.resources
+C:\Users\pr15-2016\Desktop\Vezbe 1\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.csproj.GenerateResource.Cache
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\bin\Debug\Primer_1.2.exe.config
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.exe
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.pdb
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\bin\Debug\Primer_1.2.exe
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\bin\Debug\Primer_1.2.pdb
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.csprojResolveAssemblyReference.cache
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\DrawingKontrola.g.cs
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\MainWindow.g.cs
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\RandomCanvas.g.cs
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\ShapeKontrola.g.cs
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\UgradjeneKomande.g.cs
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\VisualAdvanced.g.cs
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\VisualKontrola.g.cs
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\App.g.cs
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2_MarkupCompile.cache
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2_MarkupCompile.lref
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\DrawingKontrola.baml
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\MainWindow.baml
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\RandomCanvas.baml
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\ShapeKontrola.baml
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\UgradjeneKomande.baml
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\VisualAdvanced.baml
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\VisualKontrola.baml
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.g.resources
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\Primer_1._2.Properties.Resources.resources
+C:\Users\pr15-2016\Desktop\Vezbe 1 resene\Primer_1.2\Primer_1.2\obj\Debug\Primer_1.2.csproj.GenerateResource.Cache
